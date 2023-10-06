@@ -1,0 +1,24 @@
+{
+  "name": "learn_jwt",
+  "version": "1.0.0",
+  "description": "learn json web tokens.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index",
+    "dev": "nodemon index",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lucifer-00007/Learn_JWT.git"
+  },
+  "keywords": [
+    "JWT"
+  ],
+  "author": "LUCIFER",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lucifer-00007/Learn_JWT/issues"
+  },
+  "homepage": "https://github.com/Lucifer-00007/Learn_JWT#readme"
+}
